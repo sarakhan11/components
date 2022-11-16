@@ -15,7 +15,7 @@ import React from 'react';const Index = () => {
 
     <div className='container'>
       <div className='mx-4 md:mx-48 xl:mx-auto lg:mx-auto sm:mx-20'>
-        <Image className="cursor-pointer" src="/image 2 (1).png" width={405} height={405} alt=""/>
+        <Image className="cursor-pointer" src="/image 2 (2).png" width={405} height={405} alt=""/>
       </div>
       
       <h1 className='text-2xl mt-10 text-gray-700 font-[work+sans] text-center font-medium'>
