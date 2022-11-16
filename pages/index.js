@@ -8,10 +8,10 @@ import React from 'react';const Index = () => {
     <>
 
 <body className="overflow-x-hidden container">
-  <h1 className="text-4xl font-semibold text-center">
+  <h1 className="text-4xl font-semibold text-center ml-1 xl:ml-72 lg:ml-1 md:ml-1 sm:ml-1">
     Eco-Repair
   </h1>
-  <div className='flex flex-col container-2xl justify-between mt-20 ml-auto 2xl:ml-auto xl:ml-24 lg:ml-auto md:ml-auto sm:ml-auto gap-8 2xl:flex-row xl:flex-row lg:flex-row md:flex-col sm:flex-col'>
+  <div className='flex flex-col container-2xl justify-between mt-20 ml-auto xl:ml-64 lg:ml-auto md:ml-auto sm:ml-auto gap-8 2xl:flex-row xl:flex-row lg:flex-row md:flex-col sm:flex-col'>
 
     <div className='container'>
       <div className='mx-4 md:mx-48 xl:mx-auto lg:mx-auto sm:mx-20'>
